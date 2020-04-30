@@ -1,1 +1,1 @@
-bot: python3 HushBot.py 
+bot: python3 bot.py
