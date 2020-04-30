@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f0ec059-bc84-4a7c-8e8c-c162d9de6da0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bBzuyRuZxIIcdIPKZc3ismuLjU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="o" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f0ec059-bc84-4a7c-8e8c-c162d9de6da0" name="Default Changelist" comment="" />
+      <created>1588120501563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588120501563</updated>
+      <workItem from="1588120505629" duration="1070000" />
+      <workItem from="1588121624484" duration="992000" />
+      <workItem from="1588122969861" duration="117000" />
+      <workItem from="1588123458841" duration="62000" />
+      <workItem from="1588123544554" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="86" key="#bot" timestamp="1588215222005">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="86" key="#bot/0.0.1280.984@0.0.1280.984" timestamp="1588215222005" />
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588122556575">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1588122556575" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1588122563335">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1588122563335" />
+    <state width="1258" height="259" key="GridCell.Tab.0.bottom" timestamp="1588224455581">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588224455581" />
+    <state width="1258" height="259" key="GridCell.Tab.0.center" timestamp="1588224455581">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1588224455581" />
+    <state width="1258" height="259" key="GridCell.Tab.0.left" timestamp="1588224455581">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1588224455581" />
+    <state width="1258" height="259" key="GridCell.Tab.0.right" timestamp="1588224455581">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1588224455581" />
+    <state width="1258" height="320" key="GridCell.Tab.1.bottom" timestamp="1588215244510">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="320" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588215244510" />
+    <state width="1258" height="320" key="GridCell.Tab.1.center" timestamp="1588215244510">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="320" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1588215244510" />
+    <state width="1258" height="320" key="GridCell.Tab.1.left" timestamp="1588215244510">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="320" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1588215244510" />
+    <state width="1258" height="320" key="GridCell.Tab.1.right" timestamp="1588215244510">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1258" height="320" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1588215244510" />
+    <state x="141" y="123" key="SettingsEditor" timestamp="1588122592771">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="123" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1588122592771" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1588122584020">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1588122584020" />
+  </component>
+</project>
