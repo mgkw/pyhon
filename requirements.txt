@@ -25,7 +25,6 @@ data==0.4
 db==0.1.1
 decorator==4.4.2
 distlib==0.3.0
-Django==1.10.6
 docutils==0.13.1
 filelock==3.0.12
 Flask==1.1.2
