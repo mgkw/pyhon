@@ -29,7 +29,7 @@ HEADERS = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH
 @bot.message_handler(commands=['start'])
 def start(message):
     neme = message.from_user.first_name
-    bot.reply_to(message, text='🦠')
+    bot.send_sticker(message.chat.id, 'CAACAgIAAxkBAAIBeF6qmrNYQQ6-tyzFg2etllCl5xDRAALIAQACVp29Ch5kbWu8BAS4GQQ', reply_to_message_id=message.message_id)
     keyboard = InlineKeyboardMarkup()
     callback_button_1 = InlineKeyboardButton(text=" المساعدة ⁉️ ", callback_data='dat')
     callback_button_2 = InlineKeyboardButton(text="Dev By ✨ ", url='t.me/itsmgkw')
