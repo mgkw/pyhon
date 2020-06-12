@@ -12,7 +12,7 @@ import logging
 logger = telebot.logger
 telebot.logger.setLevel(logging.DEBUG)  # Outputs debug messages to console.
 
-bot: TeleBot = telebot.TeleBot('1270470792:AAGMPYlYcd5YIiBqT3k7eBy5gRM-OATzT-M')
+bot: TeleBot = telebot.TeleBot('1270470792:AAG7KSOty2XogSd9OYOURJfc2DvuG-c2Gqk')
 
 OFFSET = 127462 - ord('A')
 
